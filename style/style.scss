@@ -39,6 +39,7 @@ letter-spacing: 0.2px;
             color: #23A6F0;
             background-color: #fff;
             font-size: 17px;
+            cursor: pointer;
         }
         .btn2{
             border-radius: 5px;
@@ -46,6 +47,7 @@ letter-spacing: 0.2px;
             background-color: #23A6F0;
             color: #fff;
             padding: 10px 20px;
+            cursor: pointer;
         }
     }
     .icon_mobile{
@@ -190,6 +192,7 @@ margin-bottom: 8%;
             color: #fff;
             padding: 20px 25px;
             margin-bottom: 3%;
+            cursor: pointer;
         }
         .article_img{
             @include mobile{
@@ -263,6 +266,7 @@ margin-bottom: 8%;
                 background-color: #23A6F0;
                 color: #fff;
                 padding: 10px 20px;
+                cursor: pointer;
               
             }
             p{
